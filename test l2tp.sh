@@ -10,7 +10,7 @@ printf "
 #                                                  #
 # This is a Shell-Based tool of l2tp installation  #
 # Version: 1.3                                     #
-# Author: Hong Chen                                  #
+# Author: Hong Chen                                #
 # For Ubuntu 32bit and 64bit                       #
 #                                                  #
 ####################################################
